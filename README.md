@@ -9,3 +9,7 @@ Pueden hacer lo que quieran...
 ## Nuevos cambios
 
 Desde Github
+
+## Nuevos cambios desde local
+
+Desde Local
